@@ -4,11 +4,11 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://yiimp.ccminer.org:4252",
-	"user" : "benchmark",
+	"url" : "stratum+tcp://italo.ingest.cryptoknight.cc:50701",
+	"user" : "iz4FdJrFNkGNEmLSJAA39bT4cuQBVAgQTa818Gqshzg32PadREJSuWWEHFunmdfS8rjHGSHTxZoja5nWSZ8zWwiW51EpyHfarXM1K6UCHSGs",
 	"pass" : "d=0.024",
 
-	"algo" : "decred",
+	"algo" : "cryptonight-heavy",
 	"threads" : 0,
 	"cpu-priority" : 0,
 	"cpu-affinity" : -1,
